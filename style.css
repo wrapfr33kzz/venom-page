@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Bonheur+Royale&display=swap');
+
 * {
 	margin: 0;
 	padding: 0;
@@ -99,14 +101,15 @@ nav .menu {
 .center .title {
 	color: #fff;
 	font-size: 70px;
-	font-family: 'Reem Kufi Ink', sans-serif;
+	font-family: 'Bonheur Royale', cursive;
 }
 
 .center .sub_des {
 	color: #fff;
-	font-size: 18px;
+	font-size: 38px;
 	font-weight: 20;
 	margin: 11px 0 25px 0;
+	font-family: 'Bonheur Royale', cursive;
 }
 
 .center .btns button {
